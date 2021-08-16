@@ -1,0 +1,4 @@
+# Role-based redirects do not have a “to” property.
+
+/protected/*	200!	Role=member
+
